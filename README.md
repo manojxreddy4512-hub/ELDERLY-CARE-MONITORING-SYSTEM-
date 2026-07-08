@@ -157,8 +157,6 @@ The system successfully detects falls, tracks GPS location, activates emergency 
 
 T. Manoj Kumar Reddy
 
-Sk. Adil Suhan
-
 Department of Electronics and Communication Engineering
 
 SRM University-AP
